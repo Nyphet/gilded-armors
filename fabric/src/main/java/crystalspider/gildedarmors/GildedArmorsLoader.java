@@ -6,13 +6,13 @@ import net.minecraftforge.api.ModLoadingContext;
 import net.minecraftforge.fml.config.ModConfig;
 
 /**
- * Torch hit! mod loader.
+ * Gilded Armors mod loader.
  */
 public class GildedArmorsLoader implements ModInitializer {
   /**
    * ID of this mod.
    */
-  public static final String MODID = "torchhit";
+  public static final String MODID = "gildedarmors";
 
   @Override
 	public void onInitialize() {
